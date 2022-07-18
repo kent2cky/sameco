@@ -6,7 +6,7 @@
     "start": "npm run start:localhost",
     "start:localhost": "vue-cli-service serve --mode localhost --port 8081",
     "build:localhost": "vue-cli-service build --mode localhost",
-    "start:production": "vue-cli-service serve --mode production --port 8081",
+    "start:production": "vue-cli-service serve --mode production --port 8080",
     "build:production": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint"
   },
