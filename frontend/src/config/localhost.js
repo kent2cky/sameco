@@ -1,4 +1,4 @@
-const backendUrl = `http://localhost:8080/api`;
+const backendUrl = `https://sameco-staging-backend.server.samecoportal.com.ng/api`;
 
 export default {
   backendUrl,
